@@ -1,0 +1,53 @@
+returnStatus options
+    requested
+    approved
+    rejected
+    inTransit
+    received
+    inspected
+    resolved
+    cancelled
+returnResolution options
+    refund
+    exchange
+    repair
+    storeCredit
+    rejected
+returnCondition options
+    unopened
+    resalable
+    damaged
+    defective
+    incomplete
+returnRequest
+    number
+    order
+    requestedDate
+    returnStatus
+    reason
+    description optional
+    unique number
+returnItem
+    returnRequest
+    orderItem
+    quantity realNumber
+    reason
+    requestedResolution returnResolution
+returnInspection
+    returnItem
+    inspectionDate
+    returnCondition
+    acceptedQuantity realNumber
+    resolution returnResolution
+    description optional
+returnShipment
+    returnRequest
+    shipment
+    trackingNumber optional
+returnOutcome
+    returnRequest
+    returnResolution
+    refund optional
+    replacementOrder optional
+    resolvedDate
+    description optional
