@@ -1,3 +1,3 @@
-export default ({ returnRequest }) => <span class='returnStatus'>
+export default ({ returnRequest }) => <span class='status'>
     {returnRequest.returnStatus}
 </span>
