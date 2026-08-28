@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'assignmentReturn',
+        path: '/returns',
         title: 'returnsReturns',
     },
 ]
