@@ -1,3 +1,24 @@
 {
-    "returnsStatus": "وضعیت مرجوعی"
+    "common": {
+        "status": "وضعیت مرجوعی"
+    },
+    "api": {},
+    "panel": {
+        "acceptedQuantity": "تعداد پذیرفته‌شده",
+        "condition": "وضعیت کالا",
+        "description": "توضیحات",
+        "inspectionDate": "تاریخ بازرسی",
+        "number": "شماره",
+        "order": "سفارش",
+        "reason": "دلیل",
+        "requestedDate": "تاریخ درخواست",
+        "resolution": "نتیجه",
+        "returnInspections": "بازرسی مرجوعی‌ها",
+        "returnItem": "کالای مرجوعی",
+        "returnRequests": "درخواست‌های مرجوعی",
+        "returns": "مرجوعی‌ها"
+    },
+    "site": {
+        "request": "درخواست مرجوعی"
+    }
 }
