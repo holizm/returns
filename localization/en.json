@@ -1,9 +1,6 @@
 {
     "common": {
-        "status": "Return status"
-    },
-    "api": {},
-    "panel": {
+        "status": "Return status",
         "acceptedQuantity": "Accepted quantity",
         "condition": "Condition",
         "description": "Description",
@@ -16,9 +13,7 @@
         "returnInspections": "Return inspections",
         "returnItem": "Returned item",
         "returnRequests": "Return requests",
-        "returns": "Returns"
-    },
-    "site": {
+        "returns": "Returns",
         "request": "Return request"
     }
 }

@@ -1,9 +1,6 @@
 {
     "common": {
-        "status": "وضعیت مرجوعی"
-    },
-    "api": {},
-    "panel": {
+        "status": "وضعیت مرجوعی",
         "acceptedQuantity": "تعداد پذیرفته‌شده",
         "condition": "وضعیت کالا",
         "description": "توضیحات",
@@ -16,9 +13,7 @@
         "returnInspections": "بازرسی مرجوعی‌ها",
         "returnItem": "کالای مرجوعی",
         "returnRequests": "درخواست‌های مرجوعی",
-        "returns": "مرجوعی‌ها"
-    },
-    "site": {
+        "returns": "مرجوعی‌ها",
         "request": "درخواست مرجوعی"
     }
 }
