@@ -1,6 +1,5 @@
 {
     "common": {
-        "status": "Return status",
         "acceptedQuantity": "Accepted quantity",
         "condition": "Condition",
         "inspectionDate": "Inspection date",

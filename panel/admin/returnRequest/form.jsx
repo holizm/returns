@@ -33,7 +33,7 @@ const inputs = <>
             'resolved',
             'cancelled',
         ]}
-        placeholder='returnsStatus'
+        placeholder='stateMachinesState'
         property='returnStatus'
         required
     />
