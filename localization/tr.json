@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Kabul edilen miktar",
+        "condition": "Durum",
+        "inspectionDate": "İnceleme tarihi",
+        "requestedDate": "Talep tarihi",
+        "resolution": "Çözüm",
+        "returnInspections": "İade incelemeleri",
+        "returnItem": "İade edilen ürün",
+        "returnRequests": "İade talepleri",
+        "returns": "İadeler"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "الكمية المقبولة",
+        "condition": "الحالة",
+        "inspectionDate": "تاريخ الفحص",
+        "requestedDate": "تاريخ الطلب",
+        "resolution": "الإجراء المتخذ",
+        "returnInspections": "فحوص المرتجعات",
+        "returnItem": "الصنف المرتجع",
+        "returnRequests": "طلبات الإرجاع",
+        "returns": "المرتجعات"
+    }
+}

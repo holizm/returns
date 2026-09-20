@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "လက်ခံသည့်အရေအတွက်",
+        "condition": "အခြေအနေ",
+        "inspectionDate": "စစ်ဆေးသည့်ရက်",
+        "requestedDate": "တောင်းဆိုသည့်ရက်",
+        "resolution": "ဖြေရှင်းချက်",
+        "returnInspections": "ပြန်ပို့ကုန် စစ်ဆေးမှုများ",
+        "returnItem": "ပြန်ပို့သည့်ပစ္စည်း",
+        "returnRequests": "ပြန်ပို့ရန်တောင်းဆိုချက်များ",
+        "returns": "ပြန်ပို့ကုန်များ"
+    }
+}

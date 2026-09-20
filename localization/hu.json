@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Elfogadott mennyiség",
+        "condition": "Állapot",
+        "inspectionDate": "Ellenőrzés dátuma",
+        "requestedDate": "Kérelem dátuma",
+        "resolution": "Rendezés",
+        "returnInspections": "Visszáru-ellenőrzések",
+        "returnItem": "Visszaküldött tétel",
+        "returnRequests": "Visszaküldési kérelmek",
+        "returns": "Visszáruk"
+    }
+}

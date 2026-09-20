@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Adadin da aka amince",
+        "condition": "Yanayi",
+        "inspectionDate": "Ranar dubawa",
+        "requestedDate": "Ranar buƙata",
+        "resolution": "Mafita",
+        "returnInspections": "Binciken kayan da aka dawo",
+        "returnItem": "Kayan da aka dawo",
+        "returnRequests": "Buƙatun dawo da kaya",
+        "returns": "Kayan da aka dawo"
+    }
+}

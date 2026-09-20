@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "ಸ್ವೀಕರಿಸಿದ ಪ್ರಮಾಣ",
+        "condition": "ಸ್ಥಿತಿ",
+        "inspectionDate": "ತಪಾಸಣೆ ದಿನಾಂಕ",
+        "requestedDate": "ವಿನಂತಿಸಿದ ದಿನಾಂಕ",
+        "resolution": "ಪರಿಹಾರ",
+        "returnInspections": "ಹಿಂತಿರುಗಿಸಿದ ಸರಕುಗಳ ತಪಾಸಣೆ",
+        "returnItem": "ಹಿಂತಿರುಗಿಸಿದ ವಸ್ತು",
+        "returnRequests": "ಹಿಂತಿರುಗಿಸುವ ವಿನಂತಿಗಳು",
+        "returns": "ಹಿಂತಿರುಗಿಸುವಿಕೆಗಳು"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Принятое количество",
+        "condition": "Состояние",
+        "inspectionDate": "Дата проверки",
+        "requestedDate": "Дата запроса",
+        "resolution": "Решение",
+        "returnInspections": "Проверки возвратов",
+        "returnItem": "Возвращённый товар",
+        "returnRequests": "Запросы на возврат",
+        "returns": "Возвраты"
+    }
+}

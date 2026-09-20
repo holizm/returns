@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Αποδεκτή ποσότητα",
+        "condition": "Κατάσταση",
+        "inspectionDate": "Ημερομηνία ελέγχου",
+        "requestedDate": "Ημερομηνία αιτήματος",
+        "resolution": "Επίλυση",
+        "returnInspections": "Έλεγχοι επιστροφών",
+        "returnItem": "Επιστραφέν είδος",
+        "returnRequests": "Αιτήματα επιστροφής",
+        "returns": "Επιστροφές"
+    }
+}

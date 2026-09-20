@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "स्वीकृत प्रमाण",
+        "condition": "स्थिती",
+        "inspectionDate": "तपासणीची तारीख",
+        "requestedDate": "विनंतीची तारीख",
+        "resolution": "निराकरण",
+        "returnInspections": "परताव्याच्या तपासण्या",
+        "returnItem": "परत केलेली वस्तू",
+        "returnRequests": "परतावा विनंत्या",
+        "returns": "परतावे"
+    }
+}

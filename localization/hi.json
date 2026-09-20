@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "स्वीकृत मात्रा",
+        "condition": "स्थिति",
+        "inspectionDate": "निरीक्षण की तारीख",
+        "requestedDate": "अनुरोध की तारीख",
+        "resolution": "समाधान",
+        "returnInspections": "वापसी निरीक्षण",
+        "returnItem": "वापस की गई वस्तु",
+        "returnRequests": "वापसी अनुरोध",
+        "returns": "वापसी"
+    }
+}

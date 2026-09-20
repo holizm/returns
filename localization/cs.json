@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Přijaté množství",
+        "condition": "Stav",
+        "inspectionDate": "Datum kontroly",
+        "requestedDate": "Datum žádosti",
+        "resolution": "Vyřešení",
+        "returnInspections": "Kontroly vratek",
+        "returnItem": "Vrácená položka",
+        "returnRequests": "Žádosti o vrácení",
+        "returns": "Vratky"
+    }
+}

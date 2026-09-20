@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Jumlah diterima",
+        "condition": "Kondisi",
+        "inspectionDate": "Tanggal pemeriksaan",
+        "requestedDate": "Tanggal permintaan",
+        "resolution": "Penyelesaian",
+        "returnInspections": "Pemeriksaan retur",
+        "returnItem": "Barang yang dikembalikan",
+        "returnRequests": "Permintaan retur",
+        "returns": "Retur"
+    }
+}

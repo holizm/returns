@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Prihvaćena količina",
+        "condition": "Stanje",
+        "inspectionDate": "Datum pregleda",
+        "requestedDate": "Datum zahtjeva",
+        "resolution": "Rješenje",
+        "returnInspections": "Pregledi povrata",
+        "returnItem": "Vraćeni artikl",
+        "returnRequests": "Zahtjevi za povrat",
+        "returns": "Povrati"
+    }
+}

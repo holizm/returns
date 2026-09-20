@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Kiasi kilichokubaliwa",
+        "condition": "Hali",
+        "inspectionDate": "Tarehe ya ukaguzi",
+        "requestedDate": "Tarehe ya ombi",
+        "resolution": "Suluhisho",
+        "returnInspections": "Ukaguzi wa bidhaa zilizorejeshwa",
+        "returnItem": "Bidhaa iliyorejeshwa",
+        "returnRequests": "Maombi ya kurejesha",
+        "returns": "Bidhaa zilizorejeshwa"
+    }
+}

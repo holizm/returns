@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "സ്വീകരിച്ച അളവ്",
+        "condition": "അവസ്ഥ",
+        "inspectionDate": "പരിശോധന തീയതി",
+        "requestedDate": "അഭ്യർത്ഥന തീയതി",
+        "resolution": "പരിഹാരം",
+        "returnInspections": "തിരികെ നൽകിയവയുടെ പരിശോധനകൾ",
+        "returnItem": "തിരികെ നൽകിയ ഇനം",
+        "returnRequests": "തിരികെ നൽകൽ അഭ്യർത്ഥനകൾ",
+        "returns": "തിരികെ നൽകലുകൾ"
+    }
+}

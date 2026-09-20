@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "승인 수량",
+        "condition": "상태",
+        "inspectionDate": "검수일",
+        "requestedDate": "요청일",
+        "resolution": "처리 결과",
+        "returnInspections": "반품 검수",
+        "returnItem": "반품 상품",
+        "returnRequests": "반품 요청",
+        "returns": "반품"
+    }
+}

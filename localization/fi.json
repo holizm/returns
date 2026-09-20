@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Hyväksytty määrä",
+        "condition": "Kunto",
+        "inspectionDate": "Tarkastuspäivä",
+        "requestedDate": "Pyyntöpäivä",
+        "resolution": "Ratkaisu",
+        "returnInspections": "Palautusten tarkastukset",
+        "returnItem": "Palautettu tuote",
+        "returnRequests": "Palautuspyynnöt",
+        "returns": "Palautukset"
+    }
+}

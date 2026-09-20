@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Cantidad aceptada",
+        "condition": "Estado",
+        "inspectionDate": "Fecha de inspección",
+        "requestedDate": "Fecha de solicitud",
+        "resolution": "Resolución",
+        "returnInspections": "Inspecciones de devoluciones",
+        "returnItem": "Artículo devuelto",
+        "returnRequests": "Solicitudes de devolución",
+        "returns": "Devoluciones"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "ተቀባይነት ያገኘ መጠን",
+        "condition": "ሁኔታ",
+        "inspectionDate": "የምርመራ ቀን",
+        "requestedDate": "የጥያቄ ቀን",
+        "resolution": "መፍትሔ",
+        "returnInspections": "የተመለሱ ዕቃዎች ምርመራ",
+        "returnItem": "የተመለሰ ዕቃ",
+        "returnRequests": "የመመለሻ ጥያቄዎች",
+        "returns": "ተመላሽ ዕቃዎች"
+    }
+}

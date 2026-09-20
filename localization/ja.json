@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "受入数量",
+        "condition": "状態",
+        "inspectionDate": "検品日",
+        "requestedDate": "申請日",
+        "resolution": "対応結果",
+        "returnInspections": "返品検品",
+        "returnItem": "返品商品",
+        "returnRequests": "返品申請",
+        "returns": "返品"
+    }
+}

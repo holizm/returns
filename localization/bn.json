@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "গৃহীত পরিমাণ",
+        "condition": "অবস্থা",
+        "inspectionDate": "পরিদর্শনের তারিখ",
+        "requestedDate": "অনুরোধের তারিখ",
+        "resolution": "সমাধান",
+        "returnInspections": "ফেরত পণ্য পরিদর্শন",
+        "returnItem": "ফেরত পণ্য",
+        "returnRequests": "ফেরত অনুরোধসমূহ",
+        "returns": "ফেরতসমূহ"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Прието количество",
+        "condition": "Състояние",
+        "inspectionDate": "Дата на проверката",
+        "requestedDate": "Дата на заявката",
+        "resolution": "Решение",
+        "returnInspections": "Проверки на върнати стоки",
+        "returnItem": "Върнат артикул",
+        "returnRequests": "Заявки за връщане",
+        "returns": "Връщания"
+    }
+}

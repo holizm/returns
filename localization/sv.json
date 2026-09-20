@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Godkänd kvantitet",
+        "condition": "Skick",
+        "inspectionDate": "Inspektionsdatum",
+        "requestedDate": "Begäransdatum",
+        "resolution": "Åtgärd",
+        "returnInspections": "Returinspektioner",
+        "returnItem": "Returnerad artikel",
+        "returnRequests": "Returbegäranden",
+        "returns": "Returer"
+    }
+}

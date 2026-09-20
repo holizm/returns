@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Cantitate acceptată",
+        "condition": "Stare",
+        "inspectionDate": "Data inspecției",
+        "requestedDate": "Data solicitării",
+        "resolution": "Soluționare",
+        "returnInspections": "Inspecții ale retururilor",
+        "returnItem": "Articol returnat",
+        "returnRequests": "Cereri de retur",
+        "returns": "Retururi"
+    }
+}

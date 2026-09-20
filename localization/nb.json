@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Godkjent antall",
+        "condition": "Tilstand",
+        "inspectionDate": "Kontrolldato",
+        "requestedDate": "Forespørselsdato",
+        "resolution": "Løsning",
+        "returnInspections": "Returkontroller",
+        "returnItem": "Returnert vare",
+        "returnRequests": "Returforespørsler",
+        "returns": "Returer"
+    }
+}

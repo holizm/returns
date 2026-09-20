@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Iye tí a gbà",
+        "condition": "Ipò",
+        "inspectionDate": "Ọjọ́ àyẹ̀wò",
+        "requestedDate": "Ọjọ́ ìbéèrè",
+        "resolution": "Ìpinnu",
+        "returnInspections": "Àyẹ̀wò àwọn ọjà tí a dá padà",
+        "returnItem": "Ọjà tí a dá padà",
+        "returnRequests": "Àwọn ìbéèrè ìdápadà",
+        "returns": "Àwọn ìdápadà"
+    }
+}

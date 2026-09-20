@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "接受數量",
+        "condition": "商品狀況",
+        "inspectionDate": "檢驗日期",
+        "requestedDate": "申請日期",
+        "resolution": "處理方案",
+        "returnInspections": "退貨檢驗",
+        "returnItem": "退回商品",
+        "returnRequests": "退貨申請",
+        "returns": "退貨"
+    }
+}

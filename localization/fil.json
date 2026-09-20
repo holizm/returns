@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "Tinanggap na dami",
+        "condition": "Kondisyon",
+        "inspectionDate": "Petsa ng inspeksyon",
+        "requestedDate": "Petsa ng kahilingan",
+        "resolution": "Kalutasan",
+        "returnInspections": "Mga inspeksyon ng ibinalik na produkto",
+        "returnItem": "Ibinalik na item",
+        "returnRequests": "Mga kahilingan sa pagsasauli",
+        "returns": "Mga pagsasauli"
+    }
+}

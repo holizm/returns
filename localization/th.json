@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "จำนวนที่รับรอง",
+        "condition": "สภาพ",
+        "inspectionDate": "วันที่ตรวจสอบ",
+        "requestedDate": "วันที่ร้องขอ",
+        "resolution": "วิธีดำเนินการ",
+        "returnInspections": "การตรวจสอบสินค้าคืน",
+        "returnItem": "สินค้าที่ส่งคืน",
+        "returnRequests": "คำขอคืนสินค้า",
+        "returns": "การคืนสินค้า"
+    }
+}

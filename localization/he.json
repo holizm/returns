@@ -1,0 +1,13 @@
+{
+    "common": {
+        "acceptedQuantity": "כמות שאושרה",
+        "condition": "מצב",
+        "inspectionDate": "תאריך בדיקה",
+        "requestedDate": "תאריך הבקשה",
+        "resolution": "פתרון",
+        "returnInspections": "בדיקות החזרות",
+        "returnItem": "פריט שהוחזר",
+        "returnRequests": "בקשות החזרה",
+        "returns": "החזרות"
+    }
+}
