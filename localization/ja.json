@@ -4,9 +4,16 @@
         "inspectionDate": "検品日",
         "requestedDate": "申請日",
         "resolution": "対応結果",
+        "returnInspection": "返品検品",
         "returnInspections": "返品検品",
         "returnItem": "返品商品",
+        "returnItems": "返品商品",
+        "returnOutcome": "返品結果",
+        "returnOutcomes": "返品結果",
+        "returnRequest": "返品申請",
         "returnRequests": "返品申請",
+        "returnShipment": "返品配送",
+        "returnShipments": "返品配送",
         "returns": "返品"
     }
 }

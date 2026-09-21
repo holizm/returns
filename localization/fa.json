@@ -4,9 +4,16 @@
         "inspectionDate": "تاریخ بازرسی",
         "requestedDate": "تاریخ درخواست",
         "resolution": "نتیجه",
+        "returnInspection": "بازرسی مرجوعی‌ها",
         "returnInspections": "بازرسی مرجوعی‌ها",
         "returnItem": "کالای مرجوعی",
+        "returnItems": "کالای مرجوعی",
+        "returnOutcome": "نتیجه مرجوعی",
+        "returnOutcomes": "نتایج مرجوعی",
+        "returnRequest": "درخواست‌های مرجوعی",
         "returnRequests": "درخواست‌های مرجوعی",
+        "returnShipment": "محموله مرجوعی",
+        "returnShipments": "محموله‌های مرجوعی",
         "returns": "مرجوعی‌ها"
     }
 }

@@ -4,9 +4,16 @@
         "inspectionDate": "Ημερομηνία ελέγχου",
         "requestedDate": "Ημερομηνία αιτήματος",
         "resolution": "Επίλυση",
+        "returnInspection": "Έλεγχοι επιστροφών",
         "returnInspections": "Έλεγχοι επιστροφών",
         "returnItem": "Επιστραφέν είδος",
+        "returnItems": "Επιστραφέν είδος",
+        "returnOutcome": "Αποτέλεσμα επιστροφής",
+        "returnOutcomes": "Αποτελέσματα επιστροφής",
+        "returnRequest": "Αιτήματα επιστροφής",
         "returnRequests": "Αιτήματα επιστροφής",
+        "returnShipment": "Αποστολή επιστροφής",
+        "returnShipments": "Αποστολές επιστροφής",
         "returns": "Επιστροφές"
     }
 }

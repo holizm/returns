@@ -4,9 +4,16 @@
         "inspectionDate": "Ngày kiểm tra",
         "requestedDate": "Ngày yêu cầu",
         "resolution": "Phương án xử lý",
+        "returnInspection": "Kiểm tra hàng trả lại",
         "returnInspections": "Kiểm tra hàng trả lại",
         "returnItem": "Mặt hàng trả lại",
+        "returnItems": "Mặt hàng trả lại",
+        "returnOutcome": "Kết quả trả hàng",
+        "returnOutcomes": "Các kết quả trả hàng",
+        "returnRequest": "Yêu cầu trả hàng",
         "returnRequests": "Yêu cầu trả hàng",
+        "returnShipment": "Lô hàng trả lại",
+        "returnShipments": "Các lô hàng trả lại",
         "returns": "Hàng trả lại"
     }
 }

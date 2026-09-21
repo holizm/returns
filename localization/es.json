@@ -4,9 +4,16 @@
         "inspectionDate": "Fecha de inspección",
         "requestedDate": "Fecha de solicitud",
         "resolution": "Resolución",
+        "returnInspection": "Inspecciones de devoluciones",
         "returnInspections": "Inspecciones de devoluciones",
         "returnItem": "Artículo devuelto",
+        "returnItems": "Artículo devuelto",
+        "returnOutcome": "Resultado de devolución",
+        "returnOutcomes": "Resultados de devolución",
+        "returnRequest": "Solicitudes de devolución",
         "returnRequests": "Solicitudes de devolución",
+        "returnShipment": "Envío de devolución",
+        "returnShipments": "Envíos de devolución",
         "returns": "Devoluciones"
     }
 }

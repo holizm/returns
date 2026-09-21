@@ -4,9 +4,16 @@
         "inspectionDate": "Datum kontroly",
         "requestedDate": "Datum žádosti",
         "resolution": "Vyřešení",
+        "returnInspection": "Kontroly vratek",
         "returnInspections": "Kontroly vratek",
         "returnItem": "Vrácená položka",
+        "returnItems": "Vrácená položka",
+        "returnOutcome": "Výsledek vrácení",
+        "returnOutcomes": "Výsledky vrácení",
+        "returnRequest": "Žádosti o vrácení",
         "returnRequests": "Žádosti o vrácení",
+        "returnShipment": "Zásilka vrácení",
+        "returnShipments": "Zásilky vrácení",
         "returns": "Vratky"
     }
 }

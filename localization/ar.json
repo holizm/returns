@@ -4,9 +4,16 @@
         "inspectionDate": "تاريخ الفحص",
         "requestedDate": "تاريخ الطلب",
         "resolution": "الإجراء المتخذ",
+        "returnInspection": "فحوص المرتجعات",
         "returnInspections": "فحوص المرتجعات",
         "returnItem": "الصنف المرتجع",
+        "returnItems": "الصنف المرتجع",
+        "returnOutcome": "نتيجة الإرجاع",
+        "returnOutcomes": "نتائج الإرجاع",
+        "returnRequest": "طلبات الإرجاع",
         "returnRequests": "طلبات الإرجاع",
+        "returnShipment": "شحنة إرجاع",
+        "returnShipments": "شحنات الإرجاع",
         "returns": "المرتجعات"
     }
 }

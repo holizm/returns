@@ -4,9 +4,16 @@
         "inspectionDate": "วันที่ตรวจสอบ",
         "requestedDate": "วันที่ร้องขอ",
         "resolution": "วิธีดำเนินการ",
+        "returnInspection": "การตรวจสอบสินค้าคืน",
         "returnInspections": "การตรวจสอบสินค้าคืน",
         "returnItem": "สินค้าที่ส่งคืน",
+        "returnItems": "สินค้าที่ส่งคืน",
+        "returnOutcome": "ผลลัพธ์การคืน",
+        "returnOutcomes": "ผลลัพธ์การคืน",
+        "returnRequest": "คำขอคืนสินค้า",
         "returnRequests": "คำขอคืนสินค้า",
+        "returnShipment": "การจัดส่งคืน",
+        "returnShipments": "การจัดส่งคืน",
         "returns": "การคืนสินค้า"
     }
 }

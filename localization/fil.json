@@ -4,9 +4,16 @@
         "inspectionDate": "Petsa ng inspeksyon",
         "requestedDate": "Petsa ng kahilingan",
         "resolution": "Kalutasan",
+        "returnInspection": "Mga inspeksyon ng ibinalik na produkto",
         "returnInspections": "Mga inspeksyon ng ibinalik na produkto",
         "returnItem": "Ibinalik na item",
+        "returnItems": "Ibinalik na item",
+        "returnOutcome": "Resulta ng pagbabalik",
+        "returnOutcomes": "Mga resulta ng pagbabalik",
+        "returnRequest": "Mga kahilingan sa pagsasauli",
         "returnRequests": "Mga kahilingan sa pagsasauli",
+        "returnShipment": "Padalang ibinalik",
+        "returnShipments": "Mga padalang ibinalik",
         "returns": "Mga pagsasauli"
     }
 }

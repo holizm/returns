@@ -4,9 +4,16 @@
         "inspectionDate": "तपासणीची तारीख",
         "requestedDate": "विनंतीची तारीख",
         "resolution": "निराकरण",
+        "returnInspection": "परताव्याच्या तपासण्या",
         "returnInspections": "परताव्याच्या तपासण्या",
         "returnItem": "परत केलेली वस्तू",
+        "returnItems": "परत केलेली वस्तू",
+        "returnOutcome": "परतावा निकाल",
+        "returnOutcomes": "परतावा निकाल",
+        "returnRequest": "परतावा विनंत्या",
         "returnRequests": "परतावा विनंत्या",
+        "returnShipment": "परतावा शिपमेंट",
+        "returnShipments": "परतावा शिपमेंट",
         "returns": "परतावे"
     }
 }

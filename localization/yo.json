@@ -4,9 +4,16 @@
         "inspectionDate": "Ọjọ́ àyẹ̀wò",
         "requestedDate": "Ọjọ́ ìbéèrè",
         "resolution": "Ìpinnu",
+        "returnInspection": "Àyẹ̀wò àwọn ọjà tí a dá padà",
         "returnInspections": "Àyẹ̀wò àwọn ọjà tí a dá padà",
         "returnItem": "Ọjà tí a dá padà",
+        "returnItems": "Ọjà tí a dá padà",
+        "returnOutcome": "Àbájáde ìpadà",
+        "returnOutcomes": "Àwọn àbájáde ìpadà",
+        "returnRequest": "Àwọn ìbéèrè ìdápadà",
         "returnRequests": "Àwọn ìbéèrè ìdápadà",
+        "returnShipment": "Ìfiránṣẹ́ ìpadà",
+        "returnShipments": "Àwọn ìfiránṣẹ́ ìpadà",
         "returns": "Àwọn ìdápadà"
     }
 }

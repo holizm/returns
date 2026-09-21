@@ -4,9 +4,16 @@
         "inspectionDate": "പരിശോധന തീയതി",
         "requestedDate": "അഭ്യർത്ഥന തീയതി",
         "resolution": "പരിഹാരം",
+        "returnInspection": "തിരികെ നൽകിയവയുടെ പരിശോധനകൾ",
         "returnInspections": "തിരികെ നൽകിയവയുടെ പരിശോധനകൾ",
         "returnItem": "തിരികെ നൽകിയ ഇനം",
+        "returnItems": "തിരികെ നൽകിയ ഇനം",
+        "returnOutcome": "മടക്ക ഫലം",
+        "returnOutcomes": "മടക്ക ഫലങ്ങൾ",
+        "returnRequest": "തിരികെ നൽകൽ അഭ്യർത്ഥനകൾ",
         "returnRequests": "തിരികെ നൽകൽ അഭ്യർത്ഥനകൾ",
+        "returnShipment": "മടക്കയയ്ക്കൽ",
+        "returnShipments": "മടക്കയയ്ക്കലുകൾ",
         "returns": "തിരികെ നൽകലുകൾ"
     }
 }

@@ -4,9 +4,16 @@
         "inspectionDate": "Inspektionsdatum",
         "requestedDate": "Begäransdatum",
         "resolution": "Åtgärd",
+        "returnInspection": "Returinspektioner",
         "returnInspections": "Returinspektioner",
         "returnItem": "Returnerad artikel",
+        "returnItems": "Returnerad artikel",
+        "returnOutcome": "Returresultat",
+        "returnOutcomes": "Returresultat",
+        "returnRequest": "Returbegäranden",
         "returnRequests": "Returbegäranden",
+        "returnShipment": "Returförsändelse",
+        "returnShipments": "Returförsändelser",
         "returns": "Returer"
     }
 }

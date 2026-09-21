@@ -4,9 +4,16 @@
         "inspectionDate": "Ranar dubawa",
         "requestedDate": "Ranar buƙata",
         "resolution": "Mafita",
+        "returnInspection": "Binciken kayan da aka dawo",
         "returnInspections": "Binciken kayan da aka dawo",
         "returnItem": "Kayan da aka dawo",
+        "returnItems": "Kayan da aka dawo",
+        "returnOutcome": "Sakamakon mayarwa",
+        "returnOutcomes": "Sakamakon mayarwa",
+        "returnRequest": "Buƙatun dawo da kaya",
         "returnRequests": "Buƙatun dawo da kaya",
+        "returnShipment": "Kayan mayarwa",
+        "returnShipments": "Kayayyakin mayarwa",
         "returns": "Kayan da aka dawo"
     }
 }

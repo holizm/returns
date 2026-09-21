@@ -4,9 +4,16 @@
         "inspectionDate": "Tarikh pemeriksaan",
         "requestedDate": "Tarikh permintaan",
         "resolution": "Penyelesaian",
+        "returnInspection": "Pemeriksaan pemulangan",
         "returnInspections": "Pemeriksaan pemulangan",
         "returnItem": "Item dipulangkan",
+        "returnItems": "Item dipulangkan",
+        "returnOutcome": "Hasil pulangan",
+        "returnOutcomes": "Hasil pulangan",
+        "returnRequest": "Permintaan pemulangan",
         "returnRequests": "Permintaan pemulangan",
+        "returnShipment": "Penghantaran pulangan",
+        "returnShipments": "Penghantaran pulangan",
         "returns": "Pemulangan"
     }
 }

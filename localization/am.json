@@ -4,9 +4,16 @@
         "inspectionDate": "የምርመራ ቀን",
         "requestedDate": "የጥያቄ ቀን",
         "resolution": "መፍትሔ",
+        "returnInspection": "የተመለሱ ዕቃዎች ምርመራ",
         "returnInspections": "የተመለሱ ዕቃዎች ምርመራ",
         "returnItem": "የተመለሰ ዕቃ",
+        "returnItems": "የተመለሰ ዕቃ",
+        "returnOutcome": "የመመለሻ ውጤት",
+        "returnOutcomes": "የመመለሻ ውጤቶች",
+        "returnRequest": "የመመለሻ ጥያቄዎች",
         "returnRequests": "የመመለሻ ጥያቄዎች",
+        "returnShipment": "የመመለሻ ጭነት",
+        "returnShipments": "የመመለሻ ጭነቶች",
         "returns": "ተመላሽ ዕቃዎች"
     }
 }

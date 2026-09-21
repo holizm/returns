@@ -4,9 +4,16 @@
         "inspectionDate": "ஆய்வு தேதி",
         "requestedDate": "கோரிக்கை தேதி",
         "resolution": "தீர்வு",
+        "returnInspection": "திருப்பி அனுப்பிய பொருள் ஆய்வுகள்",
         "returnInspections": "திருப்பி அனுப்பிய பொருள் ஆய்வுகள்",
         "returnItem": "திருப்பி அனுப்பிய பொருள்",
+        "returnItems": "திருப்பி அனுப்பிய பொருள்",
+        "returnOutcome": "திரும்பப்பெறுதல் முடிவு",
+        "returnOutcomes": "திரும்பப்பெறுதல் முடிவுகள்",
+        "returnRequest": "திருப்பி அனுப்பும் கோரிக்கைகள்",
         "returnRequests": "திருப்பி அனுப்பும் கோரிக்கைகள்",
+        "returnShipment": "திரும்ப அனுப்புதல்",
+        "returnShipments": "திரும்ப அனுப்புதல்கள்",
         "returns": "திருப்பி அனுப்பல்கள்"
     }
 }

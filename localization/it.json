@@ -4,9 +4,16 @@
         "inspectionDate": "Data di ispezione",
         "requestedDate": "Data della richiesta",
         "resolution": "Risoluzione",
+        "returnInspection": "Ispezioni dei resi",
         "returnInspections": "Ispezioni dei resi",
         "returnItem": "Articolo restituito",
+        "returnItems": "Articolo restituito",
+        "returnOutcome": "Esito del reso",
+        "returnOutcomes": "Esiti del reso",
+        "returnRequest": "Richieste di reso",
         "returnRequests": "Richieste di reso",
+        "returnShipment": "Spedizione di reso",
+        "returnShipments": "Spedizioni di reso",
         "returns": "Resi"
     }
 }

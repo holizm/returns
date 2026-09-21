@@ -4,9 +4,16 @@
         "inspectionDate": "檢驗日期",
         "requestedDate": "申請日期",
         "resolution": "處理方案",
+        "returnInspection": "退貨檢驗",
         "returnInspections": "退貨檢驗",
         "returnItem": "退回商品",
+        "returnItems": "退回商品",
+        "returnOutcome": "退貨結果",
+        "returnOutcomes": "退貨結果",
+        "returnRequest": "退貨申請",
         "returnRequests": "退貨申請",
+        "returnShipment": "退貨運送",
+        "returnShipments": "退貨運送",
         "returns": "退貨"
     }
 }

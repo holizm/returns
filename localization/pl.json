@@ -4,9 +4,16 @@
         "inspectionDate": "Data kontroli",
         "requestedDate": "Data zgłoszenia",
         "resolution": "Rozstrzygnięcie",
+        "returnInspection": "Kontrole zwrotów",
         "returnInspections": "Kontrole zwrotów",
         "returnItem": "Zwrócony artykuł",
+        "returnItems": "Zwrócony artykuł",
+        "returnOutcome": "Wynik zwrotu",
+        "returnOutcomes": "Wyniki zwrotu",
+        "returnRequest": "Wnioski o zwrot",
         "returnRequests": "Wnioski o zwrot",
+        "returnShipment": "Przesyłka zwrotna",
+        "returnShipments": "Przesyłki zwrotne",
         "returns": "Zwroty"
     }
 }

@@ -4,9 +4,16 @@
         "inspectionDate": "Inspection date",
         "requestedDate": "Requested date",
         "resolution": "Resolution",
+        "returnInspection": "Return inspections",
         "returnInspections": "Return inspections",
         "returnItem": "Returned item",
+        "returnItems": "Returned item",
+        "returnOutcome": "Return outcome",
+        "returnOutcomes": "Return outcomes",
+        "returnRequest": "Return requests",
         "returnRequests": "Return requests",
+        "returnShipment": "Return shipment",
+        "returnShipments": "Return shipments",
         "returns": "Returns"
     }
 }

@@ -4,9 +4,16 @@
         "inspectionDate": "Tarkastuspäivä",
         "requestedDate": "Pyyntöpäivä",
         "resolution": "Ratkaisu",
+        "returnInspection": "Palautusten tarkastukset",
         "returnInspections": "Palautusten tarkastukset",
         "returnItem": "Palautettu tuote",
+        "returnItems": "Palautettu tuote",
+        "returnOutcome": "Palautuksen tulos",
+        "returnOutcomes": "Palautusten tulokset",
+        "returnRequest": "Palautuspyynnöt",
         "returnRequests": "Palautuspyynnöt",
+        "returnShipment": "Palautuslähetys",
+        "returnShipments": "Palautuslähetykset",
         "returns": "Palautukset"
     }
 }

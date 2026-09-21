@@ -4,9 +4,16 @@
         "inspectionDate": "निरीक्षण की तारीख",
         "requestedDate": "अनुरोध की तारीख",
         "resolution": "समाधान",
+        "returnInspection": "वापसी निरीक्षण",
         "returnInspections": "वापसी निरीक्षण",
         "returnItem": "वापस की गई वस्तु",
+        "returnItems": "वापस की गई वस्तु",
+        "returnOutcome": "वापसी परिणाम",
+        "returnOutcomes": "वापसी परिणाम",
+        "returnRequest": "वापसी अनुरोध",
         "returnRequests": "वापसी अनुरोध",
+        "returnShipment": "वापसी शिपमेंट",
+        "returnShipments": "वापसी शिपमेंट",
         "returns": "वापसी"
     }
 }

@@ -4,9 +4,16 @@
         "inspectionDate": "તપાસની તારીખ",
         "requestedDate": "વિનંતીની તારીખ",
         "resolution": "નિરાકરણ",
+        "returnInspection": "પરત માલની તપાસ",
         "returnInspections": "પરત માલની તપાસ",
         "returnItem": "પરત કરેલી વસ્તુ",
+        "returnItems": "પરત કરેલી વસ્તુ",
+        "returnOutcome": "પરત પરિણામ",
+        "returnOutcomes": "પરત પરિણામો",
+        "returnRequest": "પરત કરવાની વિનંતીઓ",
         "returnRequests": "પરત કરવાની વિનંતીઓ",
+        "returnShipment": "પરત શિપમેન્ટ",
+        "returnShipments": "પરત શિપમેન્ટ્સ",
         "returns": "પરતીઓ"
     }
 }

@@ -4,9 +4,16 @@
         "inspectionDate": "İnceleme tarihi",
         "requestedDate": "Talep tarihi",
         "resolution": "Çözüm",
+        "returnInspection": "İade incelemeleri",
         "returnInspections": "İade incelemeleri",
         "returnItem": "İade edilen ürün",
+        "returnItems": "İade edilen ürün",
+        "returnOutcome": "İade sonucu",
+        "returnOutcomes": "İade sonuçları",
+        "returnRequest": "İade talepleri",
         "returnRequests": "İade talepleri",
+        "returnShipment": "İade gönderisi",
+        "returnShipments": "İade gönderileri",
         "returns": "İadeler"
     }
 }

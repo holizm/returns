@@ -4,9 +4,16 @@
         "inspectionDate": "Ellenőrzés dátuma",
         "requestedDate": "Kérelem dátuma",
         "resolution": "Rendezés",
+        "returnInspection": "Visszáru-ellenőrzések",
         "returnInspections": "Visszáru-ellenőrzések",
         "returnItem": "Visszaküldött tétel",
+        "returnItems": "Visszaküldött tétel",
+        "returnOutcome": "Visszaküldési eredmény",
+        "returnOutcomes": "Visszaküldési eredmények",
+        "returnRequest": "Visszaküldési kérelmek",
         "returnRequests": "Visszaküldési kérelmek",
+        "returnShipment": "Visszaküldési szállítmány",
+        "returnShipments": "Visszaküldési szállítmányok",
         "returns": "Visszáruk"
     }
 }

@@ -4,9 +4,16 @@
         "inspectionDate": "معائنے کی تاریخ",
         "requestedDate": "درخواست کی تاریخ",
         "resolution": "حل",
+        "returnInspection": "واپسی کے معائنے",
         "returnInspections": "واپسی کے معائنے",
         "returnItem": "واپس کی گئی شے",
+        "returnItems": "واپس کی گئی شے",
+        "returnOutcome": "واپسی کا نتیجہ",
+        "returnOutcomes": "واپسی کے نتائج",
+        "returnRequest": "واپسی کی درخواستیں",
         "returnRequests": "واپسی کی درخواستیں",
+        "returnShipment": "واپسی شپمنٹ",
+        "returnShipments": "واپسی شپمنٹس",
         "returns": "واپسیاں"
     }
 }

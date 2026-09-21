@@ -4,9 +4,16 @@
         "inspectionDate": "תאריך בדיקה",
         "requestedDate": "תאריך הבקשה",
         "resolution": "פתרון",
+        "returnInspection": "בדיקות החזרות",
         "returnInspections": "בדיקות החזרות",
         "returnItem": "פריט שהוחזר",
+        "returnItems": "פריט שהוחזר",
+        "returnOutcome": "תוצאת החזרה",
+        "returnOutcomes": "תוצאות החזרה",
+        "returnRequest": "בקשות החזרה",
         "returnRequests": "בקשות החזרה",
+        "returnShipment": "משלוח החזרה",
+        "returnShipments": "משלוחי החזרה",
         "returns": "החזרות"
     }
 }

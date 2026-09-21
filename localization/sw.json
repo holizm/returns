@@ -4,9 +4,16 @@
         "inspectionDate": "Tarehe ya ukaguzi",
         "requestedDate": "Tarehe ya ombi",
         "resolution": "Suluhisho",
+        "returnInspection": "Ukaguzi wa bidhaa zilizorejeshwa",
         "returnInspections": "Ukaguzi wa bidhaa zilizorejeshwa",
         "returnItem": "Bidhaa iliyorejeshwa",
+        "returnItems": "Bidhaa iliyorejeshwa",
+        "returnOutcome": "Matokeo ya kurejesha",
+        "returnOutcomes": "Matokeo ya kurejesha",
+        "returnRequest": "Maombi ya kurejesha",
         "returnRequests": "Maombi ya kurejesha",
+        "returnShipment": "Usafirishaji wa kurejesha",
+        "returnShipments": "Usafirishaji wa kurejesha",
         "returns": "Bidhaa zilizorejeshwa"
     }
 }

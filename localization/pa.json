@@ -4,9 +4,16 @@
         "inspectionDate": "ਜਾਂਚ ਦੀ ਮਿਤੀ",
         "requestedDate": "ਬੇਨਤੀ ਦੀ ਮਿਤੀ",
         "resolution": "ਨਿਪਟਾਰਾ",
+        "returnInspection": "ਵਾਪਸੀ ਜਾਂਚਾਂ",
         "returnInspections": "ਵਾਪਸੀ ਜਾਂਚਾਂ",
         "returnItem": "ਵਾਪਸ ਕੀਤੀ ਵਸਤੂ",
+        "returnItems": "ਵਾਪਸ ਕੀਤੀ ਵਸਤੂ",
+        "returnOutcome": "ਵਾਪਸੀ ਨਤੀਜਾ",
+        "returnOutcomes": "ਵਾਪਸੀ ਨਤੀਜੇ",
+        "returnRequest": "ਵਾਪਸੀ ਬੇਨਤੀਆਂ",
         "returnRequests": "ਵਾਪਸੀ ਬੇਨਤੀਆਂ",
+        "returnShipment": "ਵਾਪਸੀ ਸ਼ਿਪਮੈਂਟ",
+        "returnShipments": "ਵਾਪਸੀ ਸ਼ਿਪਮੈਂਟਾਂ",
         "returns": "ਵਾਪਸੀਆਂ"
     }
 }

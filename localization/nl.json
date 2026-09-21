@@ -4,9 +4,16 @@
         "inspectionDate": "Inspectiedatum",
         "requestedDate": "Aanvraagdatum",
         "resolution": "Afhandeling",
+        "returnInspection": "Retourinspecties",
         "returnInspections": "Retourinspecties",
         "returnItem": "Geretourneerd artikel",
+        "returnItems": "Geretourneerd artikel",
+        "returnOutcome": "Retourresultaat",
+        "returnOutcomes": "Retourresultaten",
+        "returnRequest": "Retouraanvragen",
         "returnRequests": "Retouraanvragen",
+        "returnShipment": "Retourzending",
+        "returnShipments": "Retourzendingen",
         "returns": "Retouren"
     }
 }

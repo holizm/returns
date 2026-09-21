@@ -4,9 +4,16 @@
         "inspectionDate": "검수일",
         "requestedDate": "요청일",
         "resolution": "처리 결과",
+        "returnInspection": "반품 검수",
         "returnInspections": "반품 검수",
         "returnItem": "반품 상품",
+        "returnItems": "반품 상품",
+        "returnOutcome": "반품 결과",
+        "returnOutcomes": "반품 결과",
+        "returnRequest": "반품 요청",
         "returnRequests": "반품 요청",
+        "returnShipment": "반품 배송",
+        "returnShipments": "반품 배송",
         "returns": "반품"
     }
 }

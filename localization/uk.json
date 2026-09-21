@@ -4,9 +4,16 @@
         "inspectionDate": "Дата перевірки",
         "requestedDate": "Дата запиту",
         "resolution": "Рішення",
+        "returnInspection": "Перевірки повернень",
         "returnInspections": "Перевірки повернень",
         "returnItem": "Повернений товар",
+        "returnItems": "Повернений товар",
+        "returnOutcome": "Результат повернення",
+        "returnOutcomes": "Результати повернення",
+        "returnRequest": "Запити на повернення",
         "returnRequests": "Запити на повернення",
+        "returnShipment": "Зворотне відправлення",
+        "returnShipments": "Зворотні відправлення",
         "returns": "Повернення"
     }
 }

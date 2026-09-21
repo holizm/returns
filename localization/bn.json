@@ -4,9 +4,16 @@
         "inspectionDate": "পরিদর্শনের তারিখ",
         "requestedDate": "অনুরোধের তারিখ",
         "resolution": "সমাধান",
+        "returnInspection": "ফেরত পণ্য পরিদর্শন",
         "returnInspections": "ফেরত পণ্য পরিদর্শন",
         "returnItem": "ফেরত পণ্য",
+        "returnItems": "ফেরত পণ্য",
+        "returnOutcome": "ফেরতের ফলাফল",
+        "returnOutcomes": "ফেরতের ফলাফলসমূহ",
+        "returnRequest": "ফেরত অনুরোধসমূহ",
         "returnRequests": "ফেরত অনুরোধসমূহ",
+        "returnShipment": "ফেরত চালান",
+        "returnShipments": "ফেরত চালানসমূহ",
         "returns": "ফেরতসমূহ"
     }
 }

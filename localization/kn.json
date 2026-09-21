@@ -4,9 +4,16 @@
         "inspectionDate": "ತಪಾಸಣೆ ದಿನಾಂಕ",
         "requestedDate": "ವಿನಂತಿಸಿದ ದಿನಾಂಕ",
         "resolution": "ಪರಿಹಾರ",
+        "returnInspection": "ಹಿಂತಿರುಗಿಸಿದ ಸರಕುಗಳ ತಪಾಸಣೆ",
         "returnInspections": "ಹಿಂತಿರುಗಿಸಿದ ಸರಕುಗಳ ತಪಾಸಣೆ",
         "returnItem": "ಹಿಂತಿರುಗಿಸಿದ ವಸ್ತು",
+        "returnItems": "ಹಿಂತಿರುಗಿಸಿದ ವಸ್ತು",
+        "returnOutcome": "ಹಿಂತಿರುಗಿಸುವ ಫಲಿತಾಂಶ",
+        "returnOutcomes": "ಹಿಂತಿರುಗಿಸುವ ಫಲಿತಾಂಶಗಳು",
+        "returnRequest": "ಹಿಂತಿರುಗಿಸುವ ವಿನಂತಿಗಳು",
         "returnRequests": "ಹಿಂತಿರುಗಿಸುವ ವಿನಂತಿಗಳು",
+        "returnShipment": "ಹಿಂತಿರುಗಿಸುವ ಸಾಗಣೆ",
+        "returnShipments": "ಹಿಂತಿರುಗಿಸುವ ಸಾಗಣೆಗಳು",
         "returns": "ಹಿಂತಿರುಗಿಸುವಿಕೆಗಳು"
     }
 }

@@ -4,9 +4,16 @@
         "inspectionDate": "Datum pregleda",
         "requestedDate": "Datum zahtjeva",
         "resolution": "Rješenje",
+        "returnInspection": "Pregledi povrata",
         "returnInspections": "Pregledi povrata",
         "returnItem": "Vraćeni artikl",
+        "returnItems": "Vraćeni artikl",
+        "returnOutcome": "Ishod povrata",
+        "returnOutcomes": "Ishodi povrata",
+        "returnRequest": "Zahtjevi za povrat",
         "returnRequests": "Zahtjevi za povrat",
+        "returnShipment": "Povratna pošiljka",
+        "returnShipments": "Povratne pošiljke",
         "returns": "Povrati"
     }
 }

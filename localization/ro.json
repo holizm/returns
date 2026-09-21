@@ -4,9 +4,16 @@
         "inspectionDate": "Data inspecției",
         "requestedDate": "Data solicitării",
         "resolution": "Soluționare",
+        "returnInspection": "Inspecții ale retururilor",
         "returnInspections": "Inspecții ale retururilor",
         "returnItem": "Articol returnat",
+        "returnItems": "Articol returnat",
+        "returnOutcome": "Rezultat al returului",
+        "returnOutcomes": "Rezultate ale returului",
+        "returnRequest": "Cereri de retur",
         "returnRequests": "Cereri de retur",
+        "returnShipment": "Expediere de retur",
+        "returnShipments": "Expedieri de retur",
         "returns": "Retururi"
     }
 }

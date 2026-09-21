@@ -4,9 +4,16 @@
         "inspectionDate": "తనిఖీ తేదీ",
         "requestedDate": "అభ్యర్థించిన తేదీ",
         "resolution": "పరిష్కారం",
+        "returnInspection": "రిటర్న్ తనిఖీలు",
         "returnInspections": "రిటర్న్ తనిఖీలు",
         "returnItem": "తిరిగి ఇచ్చిన వస్తువు",
+        "returnItems": "తిరిగి ఇచ్చిన వస్తువు",
+        "returnOutcome": "రిటర్న్ ఫలితం",
+        "returnOutcomes": "రిటర్న్ ఫలితాలు",
+        "returnRequest": "రిటర్న్ అభ్యర్థనలు",
         "returnRequests": "రిటర్న్ అభ్యర్థనలు",
+        "returnShipment": "తిరిగి పంపే షిప్‌మెంట్",
+        "returnShipments": "తిరిగి పంపే షిప్‌మెంట్‌లు",
         "returns": "రిటర్న్‌లు"
     }
 }

@@ -4,9 +4,16 @@
         "inspectionDate": "စစ်ဆေးသည့်ရက်",
         "requestedDate": "တောင်းဆိုသည့်ရက်",
         "resolution": "ဖြေရှင်းချက်",
+        "returnInspection": "ပြန်ပို့ကုန် စစ်ဆေးမှုများ",
         "returnInspections": "ပြန်ပို့ကုန် စစ်ဆေးမှုများ",
         "returnItem": "ပြန်ပို့သည့်ပစ္စည်း",
+        "returnItems": "ပြန်ပို့သည့်ပစ္စည်း",
+        "returnOutcome": "ပြန်အပ်မှု ရလဒ်",
+        "returnOutcomes": "ပြန်အပ်မှု ရလဒ်များ",
+        "returnRequest": "ပြန်ပို့ရန်တောင်းဆိုချက်များ",
         "returnRequests": "ပြန်ပို့ရန်တောင်းဆိုချက်များ",
+        "returnShipment": "ပြန်ပို့မှု",
+        "returnShipments": "ပြန်ပို့မှုများ",
         "returns": "ပြန်ပို့ကုန်များ"
     }
 }

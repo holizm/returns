@@ -4,9 +4,16 @@
         "inspectionDate": "Дата проверки",
         "requestedDate": "Дата запроса",
         "resolution": "Решение",
+        "returnInspection": "Проверки возвратов",
         "returnInspections": "Проверки возвратов",
         "returnItem": "Возвращённый товар",
+        "returnItems": "Возвращённый товар",
+        "returnOutcome": "Результат возврата",
+        "returnOutcomes": "Результаты возврата",
+        "returnRequest": "Запросы на возврат",
         "returnRequests": "Запросы на возврат",
+        "returnShipment": "Возвратная отправка",
+        "returnShipments": "Возвратные отправки",
         "returns": "Возвраты"
     }
 }
