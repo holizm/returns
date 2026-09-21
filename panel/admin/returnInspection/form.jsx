@@ -26,7 +26,7 @@ const inputs = <>
             'defective',
             'incomplete',
         ]}
-        placeholder='returnsCondition'
+        placeholder='corePhysicalCondition'
         property='returnCondition'
         required
     />

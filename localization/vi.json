@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "Số lượng được chấp nhận",
-        "condition": "Tình trạng",
         "inspectionDate": "Ngày kiểm tra",
         "requestedDate": "Ngày yêu cầu",
         "resolution": "Phương án xử lý",

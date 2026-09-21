@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "接受数量",
-        "condition": "商品状况",
         "inspectionDate": "检验日期",
         "requestedDate": "申请日期",
         "resolution": "处理方案",

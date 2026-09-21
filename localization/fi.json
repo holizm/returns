@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "Hyväksytty määrä",
-        "condition": "Kunto",
         "inspectionDate": "Tarkastuspäivä",
         "requestedDate": "Pyyntöpäivä",
         "resolution": "Ratkaisu",

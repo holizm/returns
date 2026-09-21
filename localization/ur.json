@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "منظور شدہ مقدار",
-        "condition": "حالت",
         "inspectionDate": "معائنے کی تاریخ",
         "requestedDate": "درخواست کی تاریخ",
         "resolution": "حل",

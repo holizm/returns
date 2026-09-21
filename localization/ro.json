@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "Cantitate acceptată",
-        "condition": "Stare",
         "inspectionDate": "Data inspecției",
         "requestedDate": "Data solicitării",
         "resolution": "Soluționare",

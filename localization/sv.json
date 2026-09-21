@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "Godkänd kvantitet",
-        "condition": "Skick",
         "inspectionDate": "Inspektionsdatum",
         "requestedDate": "Begäransdatum",
         "resolution": "Åtgärd",

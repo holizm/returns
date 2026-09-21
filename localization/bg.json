@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "Прието количество",
-        "condition": "Състояние",
         "inspectionDate": "Дата на проверката",
         "requestedDate": "Дата на заявката",
         "resolution": "Решение",

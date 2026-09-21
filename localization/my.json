@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "လက်ခံသည့်အရေအတွက်",
-        "condition": "အခြေအနေ",
         "inspectionDate": "စစ်ဆေးသည့်ရက်",
         "requestedDate": "တောင်းဆိုသည့်ရက်",
         "resolution": "ဖြေရှင်းချက်",

@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "승인 수량",
-        "condition": "상태",
         "inspectionDate": "검수일",
         "requestedDate": "요청일",
         "resolution": "처리 결과",

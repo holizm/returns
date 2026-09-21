@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "تعداد پذیرفته‌شده",
-        "condition": "وضعیت کالا",
         "inspectionDate": "تاریخ بازرسی",
         "requestedDate": "تاریخ درخواست",
         "resolution": "نتیجه",

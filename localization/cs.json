@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "Přijaté množství",
-        "condition": "Stav",
         "inspectionDate": "Datum kontroly",
         "requestedDate": "Datum žádosti",
         "resolution": "Vyřešení",

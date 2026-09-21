@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "จำนวนที่รับรอง",
-        "condition": "สภาพ",
         "inspectionDate": "วันที่ตรวจสอบ",
         "requestedDate": "วันที่ร้องขอ",
         "resolution": "วิธีดำเนินการ",

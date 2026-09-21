@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "গৃহীত পরিমাণ",
-        "condition": "অবস্থা",
         "inspectionDate": "পরিদর্শনের তারিখ",
         "requestedDate": "অনুরোধের তারিখ",
         "resolution": "সমাধান",

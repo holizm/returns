@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "Accepted quantity",
-        "condition": "Condition",
         "inspectionDate": "Inspection date",
         "requestedDate": "Requested date",
         "resolution": "Resolution",

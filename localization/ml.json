@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "സ്വീകരിച്ച അളവ്",
-        "condition": "അവസ്ഥ",
         "inspectionDate": "പരിശോധന തീയതി",
         "requestedDate": "അഭ്യർത്ഥന തീയതി",
         "resolution": "പരിഹാരം",

@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "ಸ್ವೀಕರಿಸಿದ ಪ್ರಮಾಣ",
-        "condition": "ಸ್ಥಿತಿ",
         "inspectionDate": "ತಪಾಸಣೆ ದಿನಾಂಕ",
         "requestedDate": "ವಿನಂತಿಸಿದ ದಿನಾಂಕ",
         "resolution": "ಪರಿಹಾರ",

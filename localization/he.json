@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "כמות שאושרה",
-        "condition": "מצב",
         "inspectionDate": "תאריך בדיקה",
         "requestedDate": "תאריך הבקשה",
         "resolution": "פתרון",

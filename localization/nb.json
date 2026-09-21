@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "Godkjent antall",
-        "condition": "Tilstand",
         "inspectionDate": "Kontrolldato",
         "requestedDate": "Forespørselsdato",
         "resolution": "Løsning",

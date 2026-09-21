@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "Geaccepteerd aantal",
-        "condition": "Staat",
         "inspectionDate": "Inspectiedatum",
         "requestedDate": "Aanvraagdatum",
         "resolution": "Afhandeling",

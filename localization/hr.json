@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "Prihvaćena količina",
-        "condition": "Stanje",
         "inspectionDate": "Datum pregleda",
         "requestedDate": "Datum zahtjeva",
         "resolution": "Rješenje",

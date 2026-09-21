@@ -3,7 +3,7 @@ import Form from './form'
 
 const headers = <>
     <th start>returnsReturnItem</th>
-    <th>returnsCondition</th>
+    <th>corePhysicalCondition</th>
     <th>returnsAcceptedQuantity</th>
     <th>returnsResolution</th>
 </>

@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "Aanvaarde hoeveelheid",
-        "condition": "Toestand",
         "inspectionDate": "Inspeksiedatum",
         "requestedDate": "Versoekdatum",
         "resolution": "Oplossing",

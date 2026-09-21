@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "Kuantiti diterima",
-        "condition": "Keadaan",
         "inspectionDate": "Tarikh pemeriksaan",
         "requestedDate": "Tarikh permintaan",
         "resolution": "Penyelesaian",

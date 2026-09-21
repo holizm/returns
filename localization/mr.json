@@ -1,7 +1,6 @@
 {
     "common": {
         "acceptedQuantity": "स्वीकृत प्रमाण",
-        "condition": "स्थिती",
         "inspectionDate": "तपासणीची तारीख",
         "requestedDate": "विनंतीची तारीख",
         "resolution": "निराकरण",
