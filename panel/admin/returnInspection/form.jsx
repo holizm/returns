@@ -9,13 +9,11 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='returnItem'
-        property='returnItem'
         required
+        returnItem
     />
     <DateTime
-        placeholder='inspectionDate'
-        property='inspectionDate'
+        inspectionDate
         required
     />
     <Select
@@ -27,12 +25,11 @@ const inputs = <>
             'incomplete',
         ]}
         placeholder='physicalCondition'
-        property='returnCondition'
         required
+        returnCondition
     />
     <Numeric
-        placeholder='acceptedQuantity'
-        property='acceptedQuantity'
+        acceptedQuantity
         required
     />
     <Select
@@ -43,14 +40,10 @@ const inputs = <>
             'storeCredit',
             'rejected',
         ]}
-        placeholder='resolution'
-        property='resolution'
         required
+        resolution
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
