@@ -9,12 +9,12 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='returnsReturnItem'
+        placeholder='returnItem'
         property='returnItem'
         required
     />
     <DateTime
-        placeholder='returnsInspectionDate'
+        placeholder='inspectionDate'
         property='inspectionDate'
         required
     />
@@ -26,12 +26,12 @@ const inputs = <>
             'defective',
             'incomplete',
         ]}
-        placeholder='corePhysicalCondition'
+        placeholder='physicalCondition'
         property='returnCondition'
         required
     />
     <Numeric
-        placeholder='returnsAcceptedQuantity'
+        placeholder='acceptedQuantity'
         property='acceptedQuantity'
         required
     />
@@ -43,12 +43,12 @@ const inputs = <>
             'storeCredit',
             'rejected',
         ]}
-        placeholder='returnsResolution'
+        placeholder='resolution'
         property='resolution'
         required
     />
     <LongText
-        placeholder='returnsDescription'
+        placeholder='description'
         property='description'
     />
 </>

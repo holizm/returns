@@ -27,6 +27,8 @@ returnRequest
     reason
     description optional
     unique number
+    uses
+        stateMachines
 returnItem
     returnRequest
     orderItem

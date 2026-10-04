@@ -8,17 +8,17 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='returnsNumber'
+        placeholder='number'
         property='number'
         required
     />
     <Text
-        placeholder='returnsOrder'
+        placeholder='order'
         property='order'
         required
     />
     <DateTime
-        placeholder='returnsRequestedDate'
+        placeholder='requestedDate'
         property='requestedDate'
         required
     />
@@ -33,17 +33,17 @@ const inputs = <>
             'resolved',
             'cancelled',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='returnStatus'
         required
     />
     <Text
-        placeholder='returnsReason'
+        placeholder='reason'
         property='reason'
         required
     />
     <LongText
-        placeholder='returnsDescription'
+        placeholder='description'
         property='description'
     />
 </>

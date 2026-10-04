@@ -1,6 +1,6 @@
 export default <>
-    <th start>returnsNumber</th>
-    <th>returnsOrder</th>
-    <th>returnsRequestedDate</th>
-    <th>stateMachinesState</th>
+    <th start>number</th>
+    <th>order</th>
+    <th>requestedDate</th>
+    <th>state</th>
 </>

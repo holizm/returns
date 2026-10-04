@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/returns/returnRequest/list',
-                title: 'returnsReturnRequests',
+                title: 'returnRequests',
             },
             {
                 path: '/returns/returnInspection/list',
-                title: 'returnsReturnInspections',
+                title: 'returnInspections',
             },
         ],
         icon: 'assignmentReturn',
         path: '/returns',
-        title: 'returnsReturns',
+        title: 'returns',
     },
 ]

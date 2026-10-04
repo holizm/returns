@@ -1,6 +1,6 @@
 export default <>
-    <th start>returnsReturnItem</th>
-    <th>corePhysicalCondition</th>
-    <th>returnsAcceptedQuantity</th>
-    <th>returnsResolution</th>
+    <th start>returnItem</th>
+    <th>physicalCondition</th>
+    <th>acceptedQuantity</th>
+    <th>resolution</th>
 </>
