@@ -42,7 +42,7 @@ returnInspection
     acceptedQuantity realNumber
     resolution returnResolution
     description optional
-returnShipment
+returnShipment searchable
     returnRequest
     shipment
     trackingNumber optional
