@@ -1,6 +1,5 @@
 {
     "common": {
-        "acceptedQuantity": "Akzeptierte Menge",
         "inspectionDate": "Prüfdatum",
         "requestedDate": "Anfragedatum",
         "resolution": "Lösung",

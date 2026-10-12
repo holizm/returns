@@ -1,6 +1,5 @@
 {
     "common": {
-        "acceptedQuantity": "الكمية المقبولة",
         "inspectionDate": "تاريخ الفحص",
         "requestedDate": "تاريخ الطلب",
         "resolution": "الإجراء المتخذ",

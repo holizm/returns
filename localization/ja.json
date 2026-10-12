@@ -1,6 +1,5 @@
 {
     "common": {
-        "acceptedQuantity": "受入数量",
         "inspectionDate": "検品日",
         "requestedDate": "申請日",
         "resolution": "対応結果",

@@ -1,6 +1,5 @@
 {
     "common": {
-        "acceptedQuantity": "Elfogadott mennyiség",
         "inspectionDate": "Ellenőrzés dátuma",
         "requestedDate": "Kérelem dátuma",
         "resolution": "Rendezés",

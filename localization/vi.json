@@ -1,8 +1,6 @@
 {
     "common": {
-        "acceptedQuantity": "Số lượng được chấp nhận",
         "inspectionDate": "Ngày kiểm tra",
-        "requestedDate": "Ngày yêu cầu",
         "resolution": "Phương án xử lý",
         "returnInspection": "Kiểm tra hàng trả lại",
         "returnInspections": "Kiểm tra hàng trả lại",

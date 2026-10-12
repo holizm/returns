@@ -1,8 +1,6 @@
 {
     "common": {
-        "acceptedQuantity": "ఆమోదించిన పరిమాణం",
         "inspectionDate": "తనిఖీ తేదీ",
-        "requestedDate": "అభ్యర్థించిన తేదీ",
         "resolution": "పరిష్కారం",
         "returnInspection": "రిటర్న్ తనిఖీ",
         "returnInspections": "రిటర్న్ తనిఖీలు",

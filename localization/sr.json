@@ -1,6 +1,5 @@
 {
     "common": {
-        "acceptedQuantity": "Прихваћена количина",
         "inspectionDate": "Датум прегледа",
         "requestedDate": "Датум захтева",
         "resolution": "Решење",

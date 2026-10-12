@@ -1,6 +1,5 @@
 {
     "common": {
-        "acceptedQuantity": "Godkendt antal",
         "inspectionDate": "Inspektionsdato",
         "requestedDate": "Anmodningsdato",
         "resolution": "Løsning",
